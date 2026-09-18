@@ -7,7 +7,7 @@ Input Format
 
 A single integer n.
 Constraints
-
+ 
 −2^31 ≤ n < 2^31
 Output Format
 
