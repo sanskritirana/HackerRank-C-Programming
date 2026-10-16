@@ -1,4 +1,4 @@
-*/
+/*
 Complete the function findSecondLargest() which takes an array of integers and its size as input and returns the second largest element in the array. If there is no second largest element, return -1.
 
 Function Signature
