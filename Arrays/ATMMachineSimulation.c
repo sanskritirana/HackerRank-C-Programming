@@ -1,4 +1,4 @@
-/*
+/* 
 Design a menu-driven ATM machine that manages N fixed accounts. Each account has a unique Account number, PIN, and Balance. The system should allow users to log in, perform transactions, and log out before another user can access the ATM.
 
 Menu Options: Once logged in, a user can perform the following operations based on given inputs (A,B,C,D,E):
